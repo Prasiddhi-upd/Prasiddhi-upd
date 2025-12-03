@@ -1,5 +1,6 @@
 # 💫 About Me
 Computer Science with Mathematics  
+Aspiring Software Engineer
 
 ---
 
@@ -35,16 +36,16 @@ Computer Science with Mathematics
 
 ---
 
-## 💡 Here are some ideas to get you started:
+## 🌟 Get to Know Me More
 
-- 🔭 I’m currently working on ... **project task Sage**  
-- 🌱 I’m currently learning ... **API keys/tools**  
-- 👯 I’m looking to collaborate on ... **anything creative and interesting**  
-- 🤔 I’m looking for help with ... **job hunt in tech**  
-- 💬 Ask me about ... **my latest project Graph3d**  
-- 📫 How to reach me: ... **upadhyaprasiddhi02@gmail.com**  
-- 😄 Pronouns: ... **she/her/hers**  
-- ⚡ Fun fact: ... **in icons: movies, music, code, travel**
+- 🔭 I’m currently working on project-task-sage  
+- 🌱 I’m currently learning API keys/tools  
+- 👯 I’m looking to collaborate on anything creative and interesting 
+- 🤔 I’m looking for help with job hunt in tech  
+- 💬 Ask me about my latest project Graph3d  
+- 📫 How to reach me: upadhyaprasiddhi02@gmail.com  
+- 😄 Pronouns: she/her/hers  
+- ⚡ Fun fact: love learning new programming language
 
 ---
 
