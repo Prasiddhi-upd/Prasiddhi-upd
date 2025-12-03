@@ -45,7 +45,6 @@ Aspiring Software Engineer
 - 💬 Ask me about my latest project Graph3d  
 - 📫 How to reach me: upadhyaprasiddhi02@gmail.com  
 - 😄 Pronouns: she/her/hers  
-- ⚡ Fun fact: love learning new programming language
 
 ---
 
